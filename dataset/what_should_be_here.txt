@@ -1,1 +1,0 @@
-Images of the students to recognize and mark attendance, in the format: name.png, i.e hassan.png.
